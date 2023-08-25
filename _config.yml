@@ -23,7 +23,7 @@ email: youremail@example.com
 application_email: apply-here@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Want to learn how to design, build and deploy instrumentation for cold environments? CryoSkills is a NERC-funded field course for PhD students and early career researchers. Application deadline 29 October 2023 - apply now!
-baseurl: /coldenvinstrumentation # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cryoskills  
 github_username:  cryoskills
